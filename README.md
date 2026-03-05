@@ -14,11 +14,10 @@ Posteriormente personalicé el diseño del portal modificando diferentes element
 
 A continuación, creé varias **categorías** para organizar correctamente. Algunas de estas categorías incluyen:
 
-- Posts
-- Alimentacion
-- Suplementos (Tienda)
+- Tipo de CPU
+- Rango de precios
 
-También publiqué varios artículos de prueba añadiendo títulos, textos, imágenes destacadas y etiquetas para simular el funcionamiento real de un portal de noticias.
+También publiqué varios posts sobre diferentes combinaciones de componentes junto a su precio y su link de compra.
 
 ## Configuración del sitio
 
