@@ -32,8 +32,6 @@ Durante el desarrollo también configuré algunos elementos importantes del siti
 
 Finalmente, comprobé que la página funcionara correctamente en distintos dispositivos, tanto en ordenadores como en móviles, asegurándome de que el diseño fuera **responsiva** y fácil de navegar para cualquier usuario.
 
-[Enlace a pagina](https://gymgoers.page.gd/ "Títol opcional")
-
 # Explicacion del Portal
 
 ![Text alternatiu](Imagen1.png "Títol opcional")
