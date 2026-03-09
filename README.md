@@ -33,16 +33,16 @@ Durante el desarrollo también configuré algunos elementos importantes del siti
 
 ![hola](imagenes/hola2.png)
 
-*Esta pagina web consiste en ayudar a principantes del gym, esta pagina nació con la idea de demostrar que todos podemos mejorar nuestra salud y nuestro cuerpo paso a paso.
-En esta web puedes encontrar rutinas simples, explicaciones faciles y recomendaciones para entrenar.*
+*Esta pagina web consiste en ayudar personas a elegir los mejores componentes para un ordenador, ya sea de gama baja o gama alta. Esta pagina nació con la idea de ayudar a personas a demostrar diferentes combinaciones de componentes para hacer un ordenador funcional.
+
 
 ## Ubicaciión
-*En el apartado de Posts hay varias entradas de diferente topicos sobre los diferentes tipos de ordenador*
+*En el apartado de Nuestra Ubicación esta la ubicación de donde estan nuestros almacenes, donde guardamos todos los componentes del ordenador*
 
 ![hola](imagenes/hola4.png)
 
 ## Contactos y Traductor
-*Implemnté un Buscador y un Traducotr en esta pagina para que sea accessible para todas las personas.*
+*Implemnté un Traducotr en esta pagina para que sea accessible para todas las personas, y también un apartado de contactos, donde la gente podria pedir ayuda si tienen algún problema*
 
 ![hola](imagenes/hola1.png)
 ![hola](imagenes/hola3.png)
