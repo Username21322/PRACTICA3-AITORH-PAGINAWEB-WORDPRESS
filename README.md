@@ -31,20 +31,21 @@ Durante el desarrollo también configuré algunos elementos importantes del siti
 ## Pruebas finales
 # Explicacion del Portal
 
-![Text alternatiu](Imagen1.png "Títol opcional")
+![hola](imagenes/hola2.png)
 
 *Esta pagina web consiste en ayudar a principantes del gym, esta pagina nació con la idea de demostrar que todos podemos mejorar nuestra salud y nuestro cuerpo paso a paso.
 En esta web puedes encontrar rutinas simples, explicaciones faciles y recomendaciones para entrenar.*
 
-## Posts
+## Ubicaciión
 *En el apartado de Posts hay varias entradas de diferente topicos sobre los diferentes tipos de ordenador*
 
-![Text alternatiu](post1.png "Títol opcional")
+![hola](imagenes/hola4.png)
 
-## Buscador y Traductor
+## Contactos y Traductor
 *Implemnté un Buscador y un Traducotr en esta pagina para que sea accessible para todas las personas.*
 
-![Text alternatiu](tradu.png "Títol opcional")
+![hola](imagenes/hola1.png)
+![hola](imagenes/hola3.png)
 
 
 
