@@ -29,9 +29,6 @@ Durante el desarrollo también configuré algunos elementos importantes del siti
 - La gestión del contenido desde el panel de administración de WordPress  
 
 ## Pruebas finales
-
-Finalmente, comprobé que la página funcionara correctamente en distintos dispositivos, tanto en ordenadores como en móviles, asegurándome de que el diseño fuera **responsiva** y fácil de navegar para cualquier usuario.
-
 # Explicacion del Portal
 
 ![Text alternatiu](Imagen1.png "Títol opcional")
